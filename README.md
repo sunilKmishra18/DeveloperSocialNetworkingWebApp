@@ -1,4 +1,4 @@
-# DeveloperSocialNetworkingWebApp
+# Developer Social Networking Web App
 
 This project is a full-stack developer social networking web application built with the **MERN** stack (MongoDB, Express, React, and Node.js). It is a small social network app that includes authentication, profiles and forum posts.
 
